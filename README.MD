@@ -11,7 +11,7 @@ Ce projet a été réalisé pour le **SNCF Data Analysis Service**. L'objectif e
 
 ---
 
-## Guide d'Installation et Lancemen
+## Guide d'Installation et Lancement
 
 ### 1. Préparation de l'environnement virtuel
 
